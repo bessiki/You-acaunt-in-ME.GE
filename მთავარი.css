@@ -1,0 +1,133 @@
+.u-section-1 {
+  min-height: 551px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 635px;
+  left: 0;
+  right: auto;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 42px calc(((100% - 1140px) / 2) + 75px) 42px calc(((100% - 1140px) / 2) + 721px);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 999px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 1020px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 auto 0 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin: -1017px calc(((100% - 940px) / 2) + 110px) 60px calc(((100% - 940px) / 2) + 657px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 1348px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 770px;
+    margin-top: -7px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: 28px auto 20px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 1223px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 715px;
+    margin-top: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 358px;
+    margin-top: 21px;
+    margin-left: auto;
+    margin-bottom: 19px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 958px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 450px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: 101px;
+    margin-bottom: 60px;
+  }
+}.u-section-2 {
+  min-height: 260px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-gap: 10px 10px;
+  grid-template-columns: 100%;
+  min-height: 119px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 105px;
+  height: 105px;
+  background-image: url("images/b6a3243fa00db1ee916198f3961e20a132dda964f80cb32efb955499dce5fcff2005c8ac4da442f9eefab7764a191ad0a445ce7de74928abb0f58f_1280.jpg");
+  background-position: 50% 50%;
+  margin: 7px auto 0 498px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: -70px 481px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    margin-top: 14px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 20px;
+  }
+}
